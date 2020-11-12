@@ -1,0 +1,21 @@
+body{
+    background: white;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+.img_icon{
+    width: 30px;
+}
